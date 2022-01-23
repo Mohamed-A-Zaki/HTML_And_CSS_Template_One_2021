@@ -51,7 +51,8 @@ a {
 }
 header h2 {
   text-align: center;
-  color: #ebeced;
+  /* color: #ebeced; */
+  color: #8d8d8d;
   font-size: 100px;
   letter-spacing: -4px;
 }
@@ -59,7 +60,8 @@ header p {
   text-align: center;
   margin-top: -30px;
   font-size: 20px;
-  color: #999;
+  /* color: #999; */
+  color: #585858;
 }
 @media (max-width: 767px) {
   header h2 {
